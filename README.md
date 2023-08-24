@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 
 <!--
 **madihung/madihung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/26xBwdIuRJiAIqHwA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-animation-hello-26xBwdIuRJiAIqHwA">via GIPHY</a></p>" width="100"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/QKUx6kHItu3ilaVMdn/giphy.gif" width="100"/>
 </div>
+
